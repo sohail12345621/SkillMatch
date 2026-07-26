@@ -1,0 +1,29 @@
+# ===== Java / Maven =====
+skillmatch-backend/target/
+skillmatch-backend/*.jar
+skillmatch-backend/.mvn/
+skillmatch-backend/mvnw
+skillmatch-backend/mvnw.cmd
+
+# ===== Node / React =====
+skillmatch-frontend/node_modules/
+skillmatch-frontend/dist/
+
+# ===== IDE =====
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Env =====
+.env
+.env.local
+.env.production
+
+# ===== Uploads =====
+uploads/
