@@ -15,7 +15,6 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 
 @Component
-@Profile("!prod")
 @RequiredArgsConstructor
 @Slf4j
 public class DataSeeder implements CommandLineRunner {
